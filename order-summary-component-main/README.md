@@ -16,8 +16,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -33,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/order-summary-compnent-gwfyLyceQK)
+- Live Site URL: [ live site URL ](https://ordersummaryfrontendm.netlify.app/)
 
 ## My process
 
@@ -56,22 +54,22 @@ Also, I learnt, the use of FlexBox is quite important for responsive designs and
 To see how you can add code snippets, see below:
 
 ```html
-   <div class="payment-plan">
-                <div class="favicon">
-                    <img src="/order-summary-component-main//images/icon-music.svg" alt="" />
-                </div>
-                <div class="plan">
-                    <h4>Annual Plan</h4>
-                    <p>$59.99/year</p>
-                </div>
-                <div class="change-plan">
-                    <a href="#">Change</a>
-                </div>
-            </div>
-            <div class="btns">
-                <div class="proceedbtn">Proceed to Payment</div>
-                <div class="cancelbtn">Cancel Order</div>
-            </div>
+<div class="payment-plan">
+  <div class="favicon">
+    <img src="/order-summary-component-main//images/icon-music.svg" alt="" />
+  </div>
+  <div class="plan">
+    <h4>Annual Plan</h4>
+    <p>$59.99/year</p>
+  </div>
+  <div class="change-plan">
+    <a href="#">Change</a>
+  </div>
+</div>
+<div class="btns">
+  <div class="proceedbtn">Proceed to Payment</div>
+  <div class="cancelbtn">Cancel Order</div>
+</div>
 ```
 
 ```css
@@ -119,11 +117,8 @@ I want to continue focusing on the use of css flexbox and media queries, general
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Akarikev](https://www.frontendmentor.io/profile/Akarikev)
 - Twitter - [@elorm_elom](https://www.twitter.com/elorm_elom)
-
-
 
 ## Acknowledgments
 
