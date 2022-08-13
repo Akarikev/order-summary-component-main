@@ -113,7 +113,7 @@ I want to continue focusing on the use of css flexbox and media queries, general
 
 ### Useful resources
 
-- [resource 1](https://www.w3schools.com) - This helped me for writing media queries. I really liked this pattern and will use it going forward. This is an amazing article which helped me finally understand flexblox and, positioning. I'd recommend it to anyone still learning this concept.
+- [W3Schools](https://www.w3schools.com) - This helped me for writing media queries. I really liked this pattern and will use it going forward. This is an amazing article which helped me finally understand flexblox and, positioning. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
